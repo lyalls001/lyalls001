@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Stefan 👋
 
-<!--
-**lyalls001/lyalls001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Operations Expert | Data Analytics | Process Improvement
 
-Here are some ideas to get you started:
+I combine extensive operations and customer service experience with data analytics to identify patterns, improve processes, and support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on turning operational data into actionable business insights.
+
+## 🔎 Focus Areas
+
+- Data Analysis & Business Intelligence
+- Process Analysis & Process Improvement
+- Customer Service & Operations Analytics
+- KPI Development & Performance Management
+- Lean Six Sigma
+
+## 🛠️ Tools & Technologies
+
+- **Power BI** – Data visualization, dashboards & DAX
+- **SQL** – Data querying & analysis
+- **Excel** – Advanced analysis & reporting
+- **Celonis** – Process mining
+- **Lean Six Sigma** – Structured process improvement
+
+## 📊 Portfolio Projects
+
+I'm currently building a portfolio of analytics projects using synthetic and publicly available data.
+
+Projects will focus on real-world business questions such as:
+
+- Customer contact & repeat-contact analysis
+- Operational KPI dashboards
+- Process performance & cycle-time analysis
+- Customer service analytics
+- SQL-based business analysis
+
+> All portfolio projects use synthetic or publicly available data. No proprietary employer data is included.
+
+## 🌱 Currently Developing
+
+I'm continuously expanding my skills in:
+
+**SQL · Power BI · Data Modeling · Statistics · Process Mining · Business Analytics**
+
+---
+
+### Connect with me
+
+LinkedIn profile coming soon.
